@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="#" alt="weather App cover image" style="border-rdius:10px"></a>
+<a href="#"><img src="https://i.ibb.co/DQPHPJz/Webp-net-gifmaker.gif" alt="Portfolio cover image" style="border-rdius:10px"></a>
 </p>
 <br />
 <br />
