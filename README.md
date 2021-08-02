@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://sumitpoddarr.github.io/sumit.github.io/"><img src="https://i.ibb.co/DQPHPJz/Webp-net-gifmaker.gif" alt="Portfolio cover image" style="border-rdius:10px"></a>
+<a href="https://sumitpoddarr.github.io/sumit.github.io/"><img src="https://i.ibb.co/qmZfN6m/ezgif-com-gif-maker.gif" alt="Portfolio cover image" style="border-rdius:10px"></a>
 </p>
 <br />
 <br />
